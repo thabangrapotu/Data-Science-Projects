@@ -47,6 +47,6 @@ Contributions to this repository are welcome! If you have an interesting data sc
 5. Submit a pull request with your changes.
 
 ## License
-This repository is licensed under the [MIT License](/Data-Science-Projects/blob/main/LICENSE). Feel free to use, modify, and distribute the code for personal or commercial purposes.
+This repository is licensed under the [MIT License](Data-Science-Projects/blob/main/LICENSE). Feel free to use, modify, and distribute the code for personal or commercial purposes.
 
 
