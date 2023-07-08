@@ -5,10 +5,10 @@ This repository contains a collection of data science projects/Assignments that 
 
 ## Table of Contents
 
-- [Practice I: Array Manipulation Using NumPy](projects/project1)
-- [Practice II: Data Visualization Using Matplotlib and Seaborn](projects/project2)
-- [Practice III: Probability and Statistics](projects/project3)
-- [Mini Project 01: Stock Market Analysis](projects/project5)
+- [Practice I: Array Manipulation Using NumPy](https://github.com/thabangrapotu/Data-Science-Projects/blob/main/Practices/Practice_1.ipynb)
+- [Practice II: Data Visualization Using Matplotlib and Seaborn](https://github.com/thabangrapotu/Data-Science-Projects/blob/main/Practices/Practice%202.ipynb)
+- [Practice III: Probability and Statistics](https://github.com/thabangrapotu/Data-Science-Projects/blob/main/Practices/Practice_3.ipynb)
+- [Mini Project 01: Stock Market Analysis](https://github.com/thabangrapotu/Data-Science-Projects/blob/main/Projects/Mini_Project_01_Stock_Market_Analysis.ipynb)
 
 ## Getting Started
 
