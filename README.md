@@ -8,7 +8,7 @@ This repository contains a collection of data science projects/Assignments that 
 - [Practice I: Array Manipulation Using NumPy](projects/project1)
 - [Practice II: Data Visualization Using Matplotlib and Seaborn](projects/project2)
 - [Practice III: Probability and Statistics](projects/project3)
-- [Project I: Time Series Forecasting](projects/project5)
+- [Mini Project 01: Stock Market Analysis](projects/project5)
 
 ## Getting Started
 
@@ -20,7 +20,7 @@ Before running the projects, ensure that you have the following prerequisites in
 
 - Python (version 3.10.12 or higher)
 - Jupyter or Google Colab Notebook preferably (for running the project notebooks)
-- Required Python libraries <span style="color:red">(listed in the project-specific requirements.txt or environment.yml file)</span>
+- Required Python libraries `#Red`(listed in the project-specific requirements.txt or environment.yml file)
 
 You can install the required Python libraries by running the following command:
 
