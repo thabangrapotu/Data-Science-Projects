@@ -7,7 +7,7 @@ This repository contains a collection of data science projects/Assignments that 
 
 - [Practice 1: Exploratory Data Analysis](projects/project1)
 - [Practice 2  Predictive Modeling](projects/project2)
-- [Practice 3: Natural Language Processing](projects/project3)
+- [Practice 3: Probability and Statistics](projects/project3)
 - [Practice 4: Image Classification](projects/project4)
 - [Project 1: Time Series Forecasting](projects/project5)
 
