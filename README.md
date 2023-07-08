@@ -5,11 +5,10 @@ This repository contains a collection of data science projects/Assignments that 
 
 ## Table of Contents
 
-- [Practice 1: Exploratory Data Analysis](projects/project1)
-- [Practice 2  Predictive Modeling](projects/project2)
-- [Practice 3: Probability and Statistics](projects/project3)
-- [Practice 4: Image Classification](projects/project4)
-- [Project 1: Time Series Forecasting](projects/project5)
+- [Practice I: Array Manipulation Using NumPy](projects/project1)
+- [Practice II: Data Visualization Using Matplotlib and Seaborn](projects/project2)
+- [Practice III: Probability and Statistics](projects/project3)
+- [Project I: Time Series Forecasting](projects/project5)
 
 ## Getting Started
 
