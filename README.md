@@ -20,7 +20,7 @@ Before running the projects, ensure that you have the following prerequisites in
 
 - Python (version 3.10.12 or higher)
 - Jupyter or Google Colab Notebook preferably (for running the project notebooks)
-- Required Python libraries `#Red`(listed in the project-specific requirements.txt or environment.yml file)
+- [Jupyter or Google Colab Specs supported](https://research.google.com/colaboratory/faq.html)
 
 You can install the required Python libraries by running the following command:
 
