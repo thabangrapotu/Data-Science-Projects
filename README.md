@@ -1,15 +1,15 @@
 # Data-Science-Projects
 Data Science Projects
-This repository contains a collection of data science projects/Assignments that cover various topics and techniques within the field of data science. Each project/assignment is designed to provide hands-on experience and practical applications of data analysis and other data science methodologies.
+This repository contains a collection of data science projects/Assignments that cover various topics and techniques within the field of data science. Each project/practice is designed to provide hands-on experience and practical applications of data analysis and other data science methodologies.
 
 
 ## Table of Contents
 
-- [Project 1: Exploratory Data Analysis](projects/project1)
-- [Project 2: Predictive Modeling](projects/project2)
-- [Project 3: Natural Language Processing](projects/project3)
-- [Project 4: Image Classification](projects/project4)
-- [Project 5: Time Series Forecasting](projects/project5)
+- [Practice 1: Exploratory Data Analysis](projects/project1)
+- [Practice 2 2: Predictive Modeling](projects/project2)
+- [Practice 3: Natural Language Processing](projects/project3)
+- [Practice 4: Image Classification](projects/project4)
+- [Project 1: Time Series Forecasting](projects/project5)
 
 ## Getting Started
 
