@@ -38,7 +38,7 @@ You can install the required Python libraries by running the following command:
     cd Data-Science-Projects/projects/projectX    
 
 ## Contributing
-Contributions to this repository are welcome! If you have an interesting data science project that you would like to share, please follow these steps:
+Contributions to this repository are welcome! If you have an interesting data science project that you would like to share or improve the  existing work, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your project.
@@ -48,5 +48,3 @@ Contributions to this repository are welcome! If you have an interesting data sc
 
 ## License
 This repository is licensed under the [MIT License](https://github.com/thabangrapotu/Data-Science-Projects/blob/main/LICENSE). Feel free to use, modify, and distribute the code for personal or commercial purposes.
-
-
