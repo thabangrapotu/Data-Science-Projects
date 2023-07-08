@@ -18,9 +18,9 @@ To get started with any of the projects in this repository, please follow the in
 
 Before running the projects, ensure that you have the following prerequisites installed:
 
-- Python (version XYZ or higher)
-- Jupyter or Google Colab Notebook (for running the project notebooks)
-- Required Python libraries (listed in the project-specific requirements.txt or environment.yml file)
+- Python (version 3.10.12 or higher)
+- Jupyter or Google Colab Notebook preferably (for running the project notebooks)
+- Required Python libraries <span style="color:red">(listed in the project-specific requirements.txt or environment.yml file)</span>
 
 You can install the required Python libraries by running the following command:
 
