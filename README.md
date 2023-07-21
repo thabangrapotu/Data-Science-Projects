@@ -30,11 +30,11 @@ You can install the required Python libraries by running the following command:
 1. Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-username/Data-Science-Projects.git
+   git clone https://github.com/thabangrapotu/mini-project-stock-market-analysis
 
  2. Navigate to the project directory of your choice:
     ```bash
-    cd Data-Science-Projects/projects/projectX    
+    cd mini-project-stock-market-analysis/projects/project    
 
 ## Contributing
 Contributions to this repository are welcome! If you have an interesting data science project that you would like to share or improve the  existing work, please follow these steps:
